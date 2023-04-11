@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm ibrahim<br>I'm Devops engineer<br>I'm experienced in C++, C and golang<br>I have good knowledge of linux,golang,c++<br>
+Hi I'm ibrahim<br>I'm Devops engineer<br>I'm experienced in C++, C and golang<br>I have good knowledge of linux, golang, c++<br>
 
 
 # 💻 Tech Stack:
