@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm ibrahim<br>I'm Software developer<br>I'm experienced in C++, C and golang<br>I have much more knowledge and experience in IT than software development.<br>I have good knowledge of linux, docker, kubernetes
+Hi I'm ibrahim<br>I use arch btw<br><br><br>
 
 
 # 💻 Tech Stack:
