@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a backend developer proficient in DevOps processes such as Docker, Kubernetes, and others. Additionally, I work with AWS Cloud.
+I am a backend developer
+I am proficient in Docker, Kubernetes, and Linux in the DevOps.
 
 
 # 💻 Tech Stack:
